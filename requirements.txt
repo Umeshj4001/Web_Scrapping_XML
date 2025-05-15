@@ -1,0 +1,9 @@
+streamlit
+beautifulsoup4
+lxml
+nltk
+spacy
+scikit-learn
+pandas
+matplotlib
+wordcloud
